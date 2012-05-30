@@ -1,1 +1,1 @@
-require 'puppet_module_spec_helper/puppet_spec_helper'
+require 'puppet_module_spec_helper/module_spec_helper'
